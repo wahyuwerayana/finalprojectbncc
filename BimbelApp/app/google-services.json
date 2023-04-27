@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "327340983366",
+    "firebase_url": "https://project-hyung-default-rtdb.firebaseio.com",
+    "project_id": "project-hyung",
+    "storage_bucket": "project-hyung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327340983366:android:ff6d49ca1ffa7f89be7647",
+        "android_client_info": {
+          "package_name": "com.myproject.bimbelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327340983366-n94sgerj2hoee8ods9rdh0t9ihtsa9hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPXWaXweKB_tLBM9hg71ly5fFBeokYvYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327340983366-n94sgerj2hoee8ods9rdh0t9ihtsa9hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327340983366:android:79249e3e3bb1ab30be7647",
+        "android_client_info": {
+          "package_name": "com.myproject.hyungapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327340983366-n94sgerj2hoee8ods9rdh0t9ihtsa9hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPXWaXweKB_tLBM9hg71ly5fFBeokYvYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327340983366-n94sgerj2hoee8ods9rdh0t9ihtsa9hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
